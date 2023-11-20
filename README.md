@@ -1,2 +1,4 @@
 # Website-UI
-This repository contains the HTML and CSS code for a webpage displaying featured events at MIT. The webpage has a responsive design and showcases the events in a visually appealing manner. 
+This repository contains the HTML and CSS code for a webpage displaying featured events at MIT. The webpage has a responsive design and showcases the events in a visually appealing manner. The events are organized in a flexbox layout with columns, and each event column displays the date, title, and location of the event. The "See All Events" button allows users to view additional events. The styling is done using CSS, with the featured events section having a centered alignment, a border at the bottom, and a title with underline, bold font, and maroon color. The events are styled with appropriate font sizes and colors. The "See All Events" button has a red background color, white text color, and a subtle box shadow. The webpage also includes a divider line for visual separation. Feel free to explore and modify the code to suit your needs.
+
+Note: Make sure to include the link to the CSS file in the HTML code for proper styling.
